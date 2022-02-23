@@ -241,7 +241,7 @@ public class Plateau
     {
         if (plat)
         {
-            plateau = defaultPlateau;
+            setPlateau(defaultPlateau);
         }
 
         //Reset position pacman :
